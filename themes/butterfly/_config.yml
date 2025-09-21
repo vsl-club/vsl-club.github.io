@@ -18,13 +18,13 @@ nav:
 
 menu:
   Home: / || fas fa-home
-  Archives: /archives/ || fas fa-archive
-  Bookmark: /bookmark/ || fas fa-bookmark
-  About Me: /about/ || fas fa-person
+  Archievements: /achievements/ || fas fa-trophy
+  About Us: /about/ || fas fa-person
+  Members: /team/ || fas fa-users
   More:
-    Gallery: /gallery/ || fas fa-image
-    Certificate: /certificate/ || fas fa-certificate
     Diary: /diary/ || fas fa-book
+    Bookmark: /bookmark/ || fas fa-bookmark
+    Archives: /archives/ || fas fa-archive
 
 # --------------------------------------
 # Code Blocks Settings
@@ -283,7 +283,7 @@ aside:
     category: true
   card_author:
     enable: true
-    description: "Epiphany"
+    description: "VKU Security Lab - Nơi kết nối đam mê và chia sẻ kiến thức về An ninh mạng"
     button:
       enable: true
       icon: fab fa-github
