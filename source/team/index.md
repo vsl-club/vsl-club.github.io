@@ -5,11 +5,7 @@ date: 2025-09-21 12:21:38
 tags:
 ---
 
----
-title: Our Team
----
-
-# Meet the Team
+# Members
 
 <div class="team-grid">
   <div class="member">
