@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vsl-club.github.io/sitemap.xml
